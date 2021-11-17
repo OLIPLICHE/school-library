@@ -3,9 +3,9 @@ class Corrector
     get_name = name.strip.capitalize
 
     if get_name.length > 10
-        get_name[0, 10]
+      get_name[0, 10]
     else
-        get_name
+      get_name
     end
   end
 end
