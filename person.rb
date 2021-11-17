@@ -26,3 +26,10 @@ class Person
     @name = validate.correct_name(@name)
   end
 end
+
+# Test
+person1 = Person.new(20, 'roCk')
+p person1.validate_name
+
+person2 = Person.new(20, 'p.oliplicheBrellFradeau')
+p person2.validate_name
