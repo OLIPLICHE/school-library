@@ -1,10 +1,15 @@
-require './student'
 class Classroom
   attr_accessor :label
+  attr_reader :students
 
   def initialize(label)
-    @id = Random.rand(1..1000)
     @label = label
-    @student = []
+    @students = []
+  end
+
+  def add_student(student)
+    @students << student
+    student.classroom = self
   end
 end
+
