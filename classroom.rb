@@ -12,7 +12,3 @@ class Classroom
     student.classroom = self
   end
 end
-
-# test
-classroom_a = Classroom.new('classroom_a')
-classroom_a.add_student('paka')
