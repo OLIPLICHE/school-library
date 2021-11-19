@@ -37,6 +37,7 @@ class App
     get_option option
   end
 
+  # rubocop:disable Metrics/CyclomaticComplexity
   def get_option(input)
     case input
     when '1'
@@ -57,6 +58,7 @@ class App
       puts 'Please enter a number between 1 and 7'
     end
   end
+  # rubocop:enable Metrics/CyclomaticComplexity
 
   def list_all_books
     puts 'There are no books yet! Kindly add books.' if @books.empty?
