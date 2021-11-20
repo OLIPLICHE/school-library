@@ -8,6 +8,7 @@ In this project, I will start building your school library app. In this initial 
 ## Author
 👤 **Olipliche Mavoungou Paka**
 - GitHub: [https://github.com/OLIPLICHE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
