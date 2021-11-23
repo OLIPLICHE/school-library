@@ -21,7 +21,7 @@ This app allows you to:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche/)
 
 ## 🤝 Contributing
-Contributions, Issues, and feature requests are welcome
+Contributions, Issues, and feature requests are welcome!
 
 ## Show your support
 Give a ⭐️ if you like this project
