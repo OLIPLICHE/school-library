@@ -1,5 +1,5 @@
 ## School-library
-Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. This app that I Created will make your library the best organized one. 
+Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. This app that I Created will make your library the best organized one 
 This app allows you to:
 - Add new students or teachers.
 - Add new books.
